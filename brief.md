@@ -2,7 +2,7 @@ Version: NAFATH-V3
 Track: AI
 
 ## Overview
-These six fields connected together to build smart system.Mobile work as user interface , and transmitted their data over the Network to the Software which is managing the system , so this process generated and stored the Data , then AI take this data to analyze behavior and provide smart solutions and recommendations. while the Cybersecurity secure all this system to protect all data and communications from any threats.
+These six fields connected together to build smart system.Mobile work as user interface , and transmitted their data over the Network to the Software which is managing the system , so this process generated and stored the Data , then AI take this data to analyze behavior and provide smart solutions and recommendations. while the Cybersecurity secure all this system to protect all data and communications from any threats. The process of AI program work.
 
 ## Software
 The standard version number format must be X,Y,Z.where X,Y and Z are non negative integers without leading zeros. X represents the MAJOR version when make incompatible API changes.Y the MINOR version when add functionality in backward compatible manner. Z the PATCH version when make backward compatible bug fixes. 
