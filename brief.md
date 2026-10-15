@@ -1,5 +1,5 @@
 Version: NAFATH-V3
-Track: Network 
+Track: AI
 
 ## Overview
 These six fields connected together to build smart system.Mobile work as user interface , and transmitted their data over the Network to the Software which is managing the system , so this process generated and stored the Data , then AI take this data to analyze behavior and provide smart solutions and recommendations. while the Cybersecurity secure all this system to protect all data and communications from any threats.
@@ -43,6 +43,8 @@ Anonymisation take the data outside the scope of data protection law, once chat 
 Resource: https://www.questa-ai.com/comparisons/anonymization-vs-pseudonymization
 
 ## Misconception in My Track
-
+Nowadays, people rely on AI for the studies ,work, health and various other aspects of life. They often assume that the information’s provided by AI is largely accurate, relying on it without conducting any in depth research. However,Ai can sometimes provide incorrect informations ,therefore it’s essential to verify such details and conduct through research to ensure the information is accurate.
 
 ## Open Question
+How does the AI programs work with high level of speed, and answer all questions as a human? what kind of the codes and and programming used on this system?
+
