@@ -1,5 +1,5 @@
 Version: NAFATH-V3
-Track: AI 
+Track: Network 
 
 ## Overview
 These six fields connected together to build smart system.Mobile work as user interface , and transmitted their data over the Network to the Software which is managing the system , so this process generated and stored the Data , then AI take this data to analyze behavior and provide smart solutions and recommendations. while the Cybersecurity secure all this system to protect all data and communications from any threats.
@@ -22,11 +22,27 @@ Resource: iOS App Transport Security (ATS) and its exceptions - https://ptkd.com
 Resource: Preventing Insecure Network Connections - https://developer.apple.com/documentation/security/preventing-insecure-network-connections
 
 ## Networking
+IPv4 and IPv6 are the two versions of the internet protocol used to identify and routes devices on networks. IPv4 is internet protocol version four with 32 bits address size and it’s older than IPv6.IPv6 is internet protocol with 128 bits address size. That’s means IPv6 can provide much larger number of unique addresses and number of connected devices than IPv4.IPv6 helps meet the growing need for unique addresses and make it easier to connect new devices in future 
+
+Resource: https://www.geeksforgeeks.org/computer-networks/differences-between-ipv4-and-ipv6/
 
 ## Cybersecurity
+Prompt injection is type of attack which is someone trying to manipulate an AI system to ignore the original rules and following the unethical rules. 
+Direct prompt injection is the attacker enter malicious instructions directly into AI chat. 
+Indirect injection prompt is the attacker hide the malicious instructions into external content. 
+The tow ways to reduce the risk is: 
+separate instructions from data, treat external content as untested and never allow it to override the system.
+Apply security controls, limit the AI access to sensitive data and should to take approvals from user before do perform important actions.
+
+Resource: https://www.fortinet.com/resources/cyberglossary/prompt-injection
 
 ## Data
+Anonymisation remove the personal details which cannot identify the person from data’s. pseudonymized replaces the informations of persona with fake informations or codes.
+Anonymisation take the data outside the scope of data protection law, once chat logs are truly and permanently anonymisation, the cases to be classified as personal data because the information cannot be linked back to any individual person 
+
+Resource: https://www.questa-ai.com/comparisons/anonymization-vs-pseudonymization
 
 ## Misconception in My Track
+
 
 ## Open Question
